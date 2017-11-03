@@ -2,3 +2,8 @@ wget http://tlberg.cs.unc.edu/licheng/referit/data/refclef.zip
 wget http://tlberg.cs.unc.edu/licheng/referit/data/refcoco.zip
 wget http://tlberg.cs.unc.edu/licheng/referit/data/refcoco+.zip
 wget http://tlberg.cs.unc.edu/licheng/referit/data/refcocog.zip
+
+unzip refclef.zip
+unzip refcoco.zip
+unzip refcoco+.zip
+unzip refcocog.zip
