@@ -1,3 +1,18 @@
+# ReferIt Data Augmentation
+
+This fork is part of the work of Dan Schulman's Thesis that can be found [here](https://github.com/danzschulman/Masters_Thesis)
+
+The Jupyter Notebook [augment_dataset_dan.ipynb](https://github.com/danzschulman/refer/blob/master/augment_dataset_dan.ipynb) contains the code for augmenting the original dataset, doubling its size and still keep it valid.
+This is done by simply flipping all images left-to-right and updating the referring expressions accordingly.
+
+<table width="100%">
+<tr>
+<td><img src="https://github.com/danzschulman/refer/raw/master/data_augmentation_example.png", width="100%"></td>
+</tr>
+</table>
+
+# Original README:
+
 ## Note
 This API is able to load all 4 referring expression datasets, i.e., RefClef, RefCOCO, RefCOCO+ and RefCOCOg. 
 They are with different train/val/test split by UNC, Google and UC Berkeley respectively. We provide all kinds of splits here.
