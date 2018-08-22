@@ -5,7 +5,7 @@ Note, RefCOCO+ may change in the future as we are still cleaning it.
 Notification will be announced if we made changes.
 <table width="100%">
 <tr>
-<td><img src="http://tlberg.cs.unc.edu/licheng/referit/refer_example.jpg", alt="Mountain View" width="95%"></td>
+<td><img src="http://bvisionweb1.cs.unc.edu/licheng/referit/refer_example.jpg", alt="Mountain View" width="95%"></td>
 </tr>
 </table>
 
